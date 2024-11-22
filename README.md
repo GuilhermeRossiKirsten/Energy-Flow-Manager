@@ -21,6 +21,7 @@ promovendo o uso de fontes renováveis e otimizando o consumo energético.
 
 
 Clone o repositório:
+
    ```bash
    git clone https://github.com/GuilhermeRossiKirsten/Energy-Flow-Manager.git
    ```
@@ -86,9 +87,9 @@ projeto/
    ```
 
 3. Utilize o navegador para acessar o frontend
-  ```bash
-  http://localhost:8081
-  ```
+     ```bash
+     http://localhost:8081
+     ```
 
 
 ### Endpoints
