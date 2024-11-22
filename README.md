@@ -95,18 +95,18 @@ projeto/
 
 ### Rotas e Métodos
 
-1. **POST http://localhost:3000/auth/login - Método: `POST`
+1. **POST http://localhost:3000/auth/login** - Método: `POST`
    - Descrição: Realiza o login de um usuário e retorna um token JWT.
 
-2. **POST http://localhost:3000/auth/register - Método: `POST`
+2. **POST http://localhost:3000/auth/register** - Método: `POST`
    - Descrição: Registra um novo usuário no sistema.
 
-3. **GET http://localhost:3000/stations - Método: `GET`
+3. **GET http://localhost:3000/stations** - Método: `GET`
    - Descrição: Retorna a lista de estações associadas ao usuário autenticado.
 
-4. **POST http://localhost:3000/stations - Método: `POST`
+4. **POST http://localhost:3000/stations** - Método: `POST`
    - Descrição: Cria uma nova estação vinculada ao usuário autenticado.
 
-5. **PUT http://localhost:3000/stations - Método: `PUT`
+5. **PUT http://localhost:3000/stations** - Método: `PUT`
    - Descrição: Atualiza uma estação existente associada ao usuário autenticado.
 
