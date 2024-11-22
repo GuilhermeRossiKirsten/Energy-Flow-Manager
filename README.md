@@ -110,4 +110,12 @@ projeto/
 
 5. **PUT http://localhost:3000/stations** - Método: `PUT`
    - Descrição: Atualiza uma estação existente associada ao usuário autenticado.
+  
+
+
+### Desenvolvedores do projeto
+#### Guilherme Rossi Kirsten - RM95230
+#### Ronaldo Otsuka Ribeiro Mira - RM95595
+#### Gabriel Gino Jorge Dallape - RM94862
+
 
